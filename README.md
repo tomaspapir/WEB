@@ -20,7 +20,7 @@ Semestrální práce z KIV/WEB - Konferenční systém
         Využito pouze jako vyzkoušení dané technologie <br />
        <br /> <br />
 **2. Popis architektury aplikace**<br />
-Aplikace splňuje MVC<br />
+Aplikace splňuje MVC<br /><br />
 **About** – Vypíše stránku „O stránce“ kde si je možné vyzkoušet AJAX (controller + view)<br />
 **ArticleManagement** – Vypíše stránku „Správa článků“, kde administrátor spravuje 
 přidané články (controller + view)<br />
