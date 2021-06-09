@@ -1,0 +1,2 @@
+<h2>Semestrální práce KIV/WEB</h2>
+<p>Tento web byl vytvořen jako semestrální práce z předmětu KIV/WEB.</p>
